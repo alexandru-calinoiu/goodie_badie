@@ -1,0 +1,12 @@
+# Mac OSX files
+.DS_Store
+
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+tmp/**/*
+
+# RubyMine
+.idea/*
+coverage/*
